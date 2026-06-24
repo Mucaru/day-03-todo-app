@@ -71,7 +71,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Live Demo
 
-[day-03-todo-app.vercel.app](https://day-03-todo-app.vercel.app)
+[day-03-todo-app.vercel.app](https://day-03-todo-app-j1jz.vercel.app/)
 
 ## 100 Days Progress
 
